@@ -113,4 +113,28 @@ h1{
     background: rgb(158, 212, 210);
   }
   
-  
+  .start{
+      text-align: center;
+  }
+
+.yml{
+    text-align: center;
+    justify-content: center !important;
+    padding-bottom: 30px;
+}
+
+.gsBlog{
+    text-align: center;
+    justify-content: center !important;
+    padding-bottom: 50px;
+    
+}
+
+.start{
+    border: none;
+    background-color: rgba(158, 212, 210, 0.425) !important;
+}
+
+#rhob{
+    border-top: 30px solid rgb(158, 212, 210);
+}
