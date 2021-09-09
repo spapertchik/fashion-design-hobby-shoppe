@@ -117,13 +117,8 @@ h1{
       text-align: center;
   }
 
-.yml{
-    text-align: center;
-    justify-content: center !important;
-    padding-bottom: 30px;
-}
-
-.gsBlog{
+  
+.gsBlog, .c-w{
     text-align: center;
     justify-content: center !important;
     padding-bottom: 50px;
@@ -137,4 +132,10 @@ h1{
 
 #rhob{
     border-top: 30px solid rgb(158, 212, 210);
+}
+
+.yml, .isBlog, .recBooks{
+    text-align: center;
+    justify-content: center !important;
+    padding-bottom: 30px;
 }
