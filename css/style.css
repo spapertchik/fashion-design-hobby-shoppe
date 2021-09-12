@@ -11,8 +11,9 @@ h1{
     padding: 30px;
   }
   
-  .nav{
+  .navbar-nav, .navbar-collapse, .collapse, .navbar, .navbar-expand-lg, .navbar-light, .bg-light{
     background-color: rgb(158, 212, 210);
+    padding: 0rem !important;
   }
   
   .nav a{
